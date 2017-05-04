@@ -1,0 +1,10 @@
+server:
+  port: 20001
+
+spring:
+  dubbo:
+    scan: customer.service
+    application:
+      name: customer-A
+    registry:
+      address: zookeeper://127.0.0.1:2181
