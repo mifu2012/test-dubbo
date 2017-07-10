@@ -10,7 +10,6 @@ import org.slf4j.LoggerFactory;
  * Author: mif
  * Date: 2017/5/3
  * Time: 16:32
- * Copyright:拓道金服 Copyright (c) 2017
  */
 @Service(version = "1.0.1")
 public class PAServiceImpl implements PAService {

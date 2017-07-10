@@ -13,7 +13,6 @@ import org.springframework.context.ConfigurableApplicationContext;
  * Author: mif
  * Date: 2017/5/3
  * Time: 11:44
- * Copyright:拓道金服 Copyright (c) 2017
  */
 @SpringBootApplication
 public class CAApp {

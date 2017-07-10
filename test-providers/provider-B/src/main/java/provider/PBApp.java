@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Author: mif
  * Date: 2017/5/3
  * Time: 16:43
- * Copyright:拓道金服 Copyright (c) 2017
  */
 @SpringBootApplication
 public class PBApp {

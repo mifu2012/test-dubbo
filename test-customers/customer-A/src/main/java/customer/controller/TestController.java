@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
  * Author: mif
  * Date: 2017/5/4
  * Time: 13:45
- * Copyright:拓道金服 Copyright (c) 2017
  */
 @RestController
 public class TestController {
